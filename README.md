@@ -5,7 +5,7 @@ This is the foundational structure of a timeline web application.
 ## Contents
 
 - **index.html**: A static skeleton using semantic HTML tags.
-- **README.md**: Project description and current stage.
+- **README.md**: Project description.
 
 ## Features
 
