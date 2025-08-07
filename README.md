@@ -1,6 +1,6 @@
-# Timeline App - Stage 1
+# Timeline App
 
-This is the foundational structure (Stage 1) of a timeline web application.
+This is the foundational structure of a timeline web application.
 
 ## Contents
 
