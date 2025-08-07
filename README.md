@@ -1,1 +1,16 @@
-# Task-1.-HTML.-The-Foundations-of-Web-Design
+# Timeline App - Stage 1
+
+This is the foundational structure (Stage 1) of a timeline web application.
+
+## Contents
+
+- **index.html**: A static skeleton using semantic HTML tags.
+- **README.md**: Project description and current stage.
+
+## Features
+
+- `<header>` with app logo and theme toggle button.
+- `<nav>` reserved for future filters or navigation controls.
+- `<section id="timeline">` for displaying event markers.
+- `<div id="modal">` reserved for popup/modal functionality.
+- Semantic HTML elements like `<main>`, `<article>`, and `<figure>` included for structure and accessibility.
