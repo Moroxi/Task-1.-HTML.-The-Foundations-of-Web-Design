@@ -1,16 +1,36 @@
-# Task-1 Timeline App
+# Timeline App
 
-This is the foundational structure of a timeline web application.
+A simple static timeline application skeleton with a pure HTML + CSS theme toggle.
 
-## Contents
+## Project Stages
 
-- **index.html**: A static skeleton using semantic HTML tags.
-- **README.md**: Project description.
+### Task 1 — HTML: The Foundations of Web Design
+- Created `index.html` containing:
+  - `<header>` with logo/title and theme toggle.
+  - `<nav>` placeholder for filters/navigation.
+  - `<section id="timeline">` for event markers.
+  - `<div id="modal">` reserved for future pop-ups.
+  - Semantic HTML structure using `<main>`, `<article>`, `<figure>`.
+- Added a basic `README.md` describing the project.
+
+### Task 2 — CSS and Preprocessors
+- Created `styles.css` implementing:
+  - Responsive layout using Flexbox (mobile/tablet) and CSS Grid (desktop).
+  - Header styling, typography, and color scheme.
+  - Placeholder styles for event markers.
+  - Modal base styles (hidden by default).
+  - **Pure CSS Dark Mode** via a hidden checkbox toggle — no JavaScript required.
+  - Responsive breakpoints:
+    - Mobile: `<768px`
+    - Tablet: `768–1023px`
+    - Desktop: `≥1024px`
 
 ## Features
+- Light/Dark theme switching with CSS variables.
+- Fully responsive layout adapting to device size.
+- Semantic, accessible HTML structure.
 
-- `<header>` with app logo and theme toggle button.
-- `<nav>` reserved for future filters or navigation controls.
-- `<section id="timeline">` for displaying event markers.
-- `<div id="modal">` reserved for popup/modal functionality.
-- Semantic HTML elements like `<main>`, `<article>`, and `<figure>` included for structure and accessibility.
+## Files
+- **index.html** — Static skeleton with theme toggle.
+- **styles.css** — Styling for layout, theme, and responsiveness.
+- **README.md** — Project description, tasks, and usage.
