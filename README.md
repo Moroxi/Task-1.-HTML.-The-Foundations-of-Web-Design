@@ -2,8 +2,6 @@
 
 A simple static timeline application skeleton with a pure HTML + CSS theme toggle.
 
-## Project Stages
-
 ### Task 1 — HTML: The Foundations of Web Design
 - Created `index.html` containing:
   - `<header>` with logo/title and theme toggle.
