@@ -29,6 +29,6 @@ A simple static timeline application skeleton with a pure HTML + CSS theme toggl
 - Semantic, accessible HTML structure.
 
 ## Files
-- **index.html** — Static skeleton with theme toggle.
-- **styles.css** — Styling for layout, theme, and responsiveness.
-- **README.md** — Project description, tasks, and usage.
+- **index.html**
+- **styles.css**
+- **README.md**
