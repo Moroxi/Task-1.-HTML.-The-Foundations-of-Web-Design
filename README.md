@@ -3,25 +3,25 @@
 A simple static timeline application skeleton with a pure HTML + CSS theme toggle.
 
 ### Task 1 — HTML: The Foundations of Web Design
-- Created `index.html` containing:
-  - `<header>` with logo/title and theme toggle.
-  - `<nav>` placeholder for filters/navigation.
-  - `<section id="timeline">` for event markers.
-  - `<div id="modal">` reserved for future pop-ups.
-  - Semantic HTML structure using `<main>`, `<article>`, `<figure>`.
-- Added a basic `README.md` describing the project.
+Create the static skeleton of your timeline app.
+
+An index.html containing: 
+
+- A <header> with logo and theme toggle. 
+- A <nav> or container for filters/placeholders (empty for now). 
+- A <section id="timeline"> where event markers will live. 
+- An empty <div id="modal"> for future pop‑ups. 
+- Semantic tags for main content (<main>, <article>, <figure>, etc.). 
+- A basic README.md with project title and stage-1 description.
 
 ### Task 2 — CSS and Preprocessors
-- Created `styles.css` implementing:
-  - Responsive layout using Flexbox (mobile/tablet) and CSS Grid (desktop).
-  - Header styling, typography, and color scheme.
-  - Placeholder styles for event markers.
-  - Modal base styles (hidden by default).
-  - **Pure CSS Dark Mode** via a hidden checkbox toggle — no JavaScript required.
-  - Responsive breakpoints:
-    - Mobile: `<768px`
-    - Tablet: `768–1023px`
-    - Desktop: `≥1024px`
+- Style your HTML into a responsive, polished layout. 
+- A styles.css (or SCSS) implementing: 
+ - Responsive layout using Flexbox or CSS Grid for the timeline. 
+ - Header styling, typography, colour scheme. 
+ - Placeholder styles for event markers (e.g. dots, labels). 
+ - Modal base styles (hidden by default). 
+ - Ensure your design adapts at breakpoints: mobile (<768px), tablet (768–1023px), desktop (≥1024px). 
 
 ## Files
 - **index.html**
