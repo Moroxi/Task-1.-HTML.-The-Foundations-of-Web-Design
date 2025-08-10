@@ -17,11 +17,11 @@ An index.html containing:
 ### Task 2 — CSS and Preprocessors
 - Style your HTML into a responsive, polished layout. 
 - A styles.css (or SCSS) implementing: 
- - Responsive layout using Flexbox or CSS Grid for the timeline. 
- - Header styling, typography, colour scheme. 
- - Placeholder styles for event markers (e.g. dots, labels). 
- - Modal base styles (hidden by default). 
- - Ensure your design adapts at breakpoints: mobile (<768px), tablet (768–1023px), desktop (≥1024px). 
+    - Responsive layout using Flexbox or CSS Grid for the timeline. 
+    - Header styling, typography, colour scheme. 
+    - Placeholder styles for event markers (e.g. dots, labels). 
+    - Modal base styles (hidden by default). 
+    - Ensure your design adapts at breakpoints: mobile (<768px), tablet (768–1023px), desktop (≥1024px). 
 
 ## Files
 - **index.html**
