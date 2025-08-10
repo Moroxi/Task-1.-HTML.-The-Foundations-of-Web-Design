@@ -23,11 +23,6 @@ A simple static timeline application skeleton with a pure HTML + CSS theme toggl
     - Tablet: `768–1023px`
     - Desktop: `≥1024px`
 
-## Features
-- Light/Dark theme switching with CSS variables.
-- Fully responsive layout adapting to device size.
-- Semantic, accessible HTML structure.
-
 ## Files
 - **index.html**
 - **styles.css**
