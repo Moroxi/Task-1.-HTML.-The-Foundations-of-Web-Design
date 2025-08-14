@@ -27,3 +27,4 @@ An index.html containing:
 - **index.html**
 - **styles.css**
 - **README.md**
+- **script.js**
